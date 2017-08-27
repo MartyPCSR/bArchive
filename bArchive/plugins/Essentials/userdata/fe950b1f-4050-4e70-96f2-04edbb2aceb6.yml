@@ -1,0 +1,50 @@
+lastAccountName: Crackle_
+timestamps:
+  login: 1476299779685
+  logout: 1476301353333
+  lastteleport: 1475632314408
+ipAddress: 129.171.6.47
+lastlocation:
+  world: world
+  x: 9896.346309232193
+  y: 79.16861057861148
+  z: 9904.05596732682
+  yaw: -96.07031
+  pitch: 2.4608178
+logoutlocation:
+  world: world
+  x: 10003.686167703603
+  y: 75.0
+  z: 9828.415251048964
+  yaw: -89.31421
+  pitch: 45.893017
+homes:
+  home:
+    world: world
+    x: 10003.426181290246
+    y: 256.0
+    z: 9827.350862251498
+    yaw: 177.4602
+    pitch: 45.627884
+  survival:
+    world: world
+    x: -320.3474628410534
+    y: 70.0
+    z: 1717.1726823938475
+    yaw: -77.67096
+    pitch: 38.450607
+  island:
+    world: world
+    x: 10003.411123017973
+    y: 256.0
+    z: 9827.361251983573
+    yaw: -181.97476
+    pitch: 48.561283
+  gaslight:
+    world: flatmap
+    x: 161.65744703575393
+    y: 7.0
+    z: -166.30000001192093
+    yaw: 0.5723216
+    pitch: 24.830185
+afk: false

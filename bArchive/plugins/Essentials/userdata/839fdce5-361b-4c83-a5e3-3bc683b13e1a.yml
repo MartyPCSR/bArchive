@@ -1,0 +1,29 @@
+lastAccountName: ColonyDrone8
+timestamps:
+  login: 1475374121461
+  lastteleport: 1475374152078
+  logout: 1475374330664
+ipAddress: 75.74.191.6
+lastlocation:
+  world: world_the_end
+  x: -747.1021167478732
+  y: 119.0
+  z: -784.3004199501094
+  yaw: 98.11073
+  pitch: 22.650042
+nickname: DJ_Ditz§k3
+logoutlocation:
+  world: flatmap
+  x: 164.92098915443617
+  y: 4.0
+  z: -89.63552379715672
+  yaw: -61.774567
+  pitch: 19.605215
+afk: false
+powertools:
+  '280':
+  - /cube anvil 0
+  '166':
+  - toggle
+powertoolsenabled: false
+money: '10'

@@ -1,0 +1,23 @@
+lastAccountName: peaceiscloser
+timestamps:
+  login: 1483557529862
+  logout: 1483558097534
+  lastteleport: 1483557578339
+ipAddress: 97.117.31.209
+logoutlocation:
+  world: flatmap
+  x: -5.633237541545529
+  y: 19.0
+  z: -231.30000001192093
+  yaw: -35.548523
+  pitch: 48.150005
+lastlocation:
+  world: flatmap
+  x: 136.90982533132197
+  y: 14.371908371250765
+  z: -120.74497870034068
+  yaw: 252.30017
+  pitch: 24.6
+afk: false
+money: '97'
+nickname: Marty

@@ -1,0 +1,28 @@
+lastAccountName: DoctorTricky
+timestamps:
+  login: 1470967291933
+  lastteleport: 1470930565215
+  logout: 1470967723113
+ipAddress: 67.186.131.212
+lastlocation:
+  world: flatmap
+  x: 255.69999998807907
+  y: 8.200000047683716
+  z: -372.7569131008094
+  yaw: -237.33679
+  pitch: 36.29997
+logoutlocation:
+  world: world
+  x: 127.69999998807907
+  y: 49.0
+  z: -898.9606267374229
+  yaw: -238.51855
+  pitch: 27.749979
+homes:
+  home:
+    world: flatmap
+    x: 272.5
+    y: 4.0
+    z: -386.5
+    yaw: -263.28687
+    pitch: 7.649953

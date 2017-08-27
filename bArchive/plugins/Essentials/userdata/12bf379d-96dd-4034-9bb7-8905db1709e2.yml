@@ -1,0 +1,45 @@
+lastAccountName: AzumaWhirl
+timestamps:
+  login: 1475792956889
+  lastteleport: 1475792981808
+  logout: 1475793109873
+ipAddress: 70.189.207.187
+lastlocation:
+  world: world
+  x: -4849.486975503111
+  y: 79.716607217985
+  z: -4668.704553521654
+  yaw: 61.068268
+  pitch: 25.499977
+logoutlocation:
+  world: Timelapse_Map
+  x: 1323.21937581698
+  y: 35.250495378414755
+  z: 3849.7986633203877
+  yaw: -83.28485
+  pitch: 45.00021
+afk: false
+homes:
+  build:
+    world: world
+    x: 77.5
+    y: 202.0
+    z: -984.5
+    yaw: 1.7680664
+    pitch: 12.30005
+  spawn:
+    world: void
+    x: 37.5
+    y: 80.0625
+    z: -42.5
+    yaw: -63.74841
+    pitch: -13.950011
+  team:
+    world: world
+    x: -4867.875454541252
+    y: 73.24331978626171
+    z: -4655.716891484852
+    yaw: 324.31763
+    pitch: 11.849989
+money: '97'
+nickname: Whirlpool

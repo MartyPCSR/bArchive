@@ -1,0 +1,29 @@
+lastAccountName: Masonian
+timestamps:
+  login: 1478651053672
+  lastteleport: 1478651598071
+  logout: 1478657670472
+ipAddress: 96.240.24.197
+lastlocation:
+  world: flatmap
+  x: 620.3456422305302
+  y: 4.0
+  z: -565.4688926208933
+  yaw: 358.50574
+  pitch: -1.9500111
+homes:
+  home:
+    world: flatmap
+    x: 617.4844652186005
+    y: 4.0
+    z: -638.6605340271374
+    yaw: -176.39706
+    pitch: 90.0
+logoutlocation:
+  world: flatmap
+  x: 619.4715687439575
+  y: 14.0
+  z: -737.601396815259
+  yaw: -307.80322
+  pitch: 33.449993
+nickname: Masonian

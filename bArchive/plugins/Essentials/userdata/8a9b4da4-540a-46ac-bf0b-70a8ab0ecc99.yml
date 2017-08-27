@@ -1,0 +1,31 @@
+lastAccountName: Isishart
+timestamps:
+  login: 1475383332578
+  lastteleport: 1475384661674
+  logout: 1475386959116
+ipAddress: 108.195.116.232
+lastlocation:
+  world: flatmap
+  x: 137.28470403748412
+  y: 7.605437845603284
+  z: -682.2878904415718
+  yaw: -4.7998614
+  pitch: 10.200028
+logoutlocation:
+  world: flatmap
+  x: -147.7394139527548
+  y: 11.23993609400907
+  z: -86.92979530846125
+  yaw: -31.354004
+  pitch: 10.500074
+afk: false
+homes:
+  home:
+    world: world
+    x: -106.42785960315757
+    y: 95.0
+    z: -213.18654860370836
+    yaw: -184.19464
+    pitch: 68.55
+money: '97'
+nickname: Icy

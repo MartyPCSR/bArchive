@@ -1,0 +1,28 @@
+lastAccountName: MoltenDragon52
+timestamps:
+  login: 1470529251380
+  lastteleport: 1470534421324
+  logout: 1470534501259
+ipAddress: 68.8.193.15
+lastlocation:
+  world: flatmap
+  x: 93.5993354865058
+  y: 72.30581211441856
+  z: -197.5710806156799
+  yaw: 267.54715
+  pitch: 30.300037
+homes:
+  home:
+    world: world
+    x: 241.5569876384828
+    y: 66.0
+    z: 1413.052958636906
+    yaw: -257.69824
+    pitch: 7.6500187
+logoutlocation:
+  world: world
+  x: 239.6162776855107
+  y: 66.875
+  z: 1414.9205257920996
+  yaw: -82.94803
+  pitch: 20.849976

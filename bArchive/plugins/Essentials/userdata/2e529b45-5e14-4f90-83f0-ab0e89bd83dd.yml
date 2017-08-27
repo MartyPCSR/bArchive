@@ -1,0 +1,21 @@
+lastAccountName: SmokeyTheLion
+timestamps:
+  login: 1472143327762
+  lastteleport: 1471884389980
+  logout: 1472143568953
+ipAddress: 216.209.24.227
+lastlocation:
+  world: world
+  x: -4894.657928083043
+  y: 78.0
+  z: -4600.02574308111
+  yaw: -13.193877
+  pitch: -10.340019
+money: '65'
+logoutlocation:
+  world: flatmap
+  x: 22.939044997128683
+  y: 29.995753071455635
+  z: -146.87993512491352
+  yaw: 305.53055
+  pitch: 25.084505

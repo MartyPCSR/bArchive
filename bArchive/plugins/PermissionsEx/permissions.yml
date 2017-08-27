@@ -1,0 +1,392 @@
+groups:
+  CHALLENGER:
+    options:
+      prefix: '&8CHALLENGER &7'
+      default: true
+    permissions:
+    - modifyworld.*
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.spawn
+    - essentials.home
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - essentials.chat.*
+    - essentials.signs.use.*
+    - essentials.afk
+    - essentials.clearinventory
+    - essentials.nick
+    - essentials.gamemode
+    - herochat.join.Global
+    - herochat.autojoin.Global
+    - herochat.speak.Global
+    - herochat.pm
+  STAFF:
+    permissions:
+    - permissions.*
+    - essentials.*
+    - -essentials.nuke
+    - worldedit.*
+    - multiverse.*
+    - herochat.*
+    - voxelsniper.*
+    - worldguard.*
+    - perworldinventory.bypass.*
+    - mv.bypass.gamemode.*
+    - modifyworld.*
+    - SafeCommandBlock.access
+    - SafeCommandBlock.bypass
+    - SafeCommandBlock.resetcommand
+    - SafeCommandBlock.color
+    - SafeCommandBlock.setCommand
+    - SafeCommandBlock.setCommandName
+  MARIO:
+    inheritance:
+    - CHALLENGER
+    - ROYAL
+    options:
+      prefix: '&cPlumber &2Bros. &f'
+    permissions:
+    - modifyworld.*
+  DONKEYKONG:
+    inheritance:
+    - CHALLENGER
+    - REPUBLIC
+    options:
+      prefix: '&4Coconut &6Gun &f'
+    permissions:
+    - modifyworld.*
+  ZELDA:
+    inheritance:
+    - CHALLENGER
+    - ROYAL: null
+    options:
+      prefix: '&2Hylian &7Knight &f'
+    permissions:
+    - modifyworld.*
+  METROID:
+    inheritance:
+    - CHALLENGER
+    - REVOLUTION
+    options:
+      prefix: '&6Varia &cSuit &f'
+    permissions:
+    - modifyworld.*
+  FZERO:
+    inheritance:
+    - CHALLENGER
+    - REVOLUTION
+    options:
+      prefix: '&1Mach &6Rider &f'
+    permissions:
+    - modifyworld.*
+  EARTHBOUND:
+    inheritance:
+    - CHALLENGER
+    - REPUBLIC
+    options:
+      prefix: '&3PSI &cKid &f'
+    permissions:
+    - modifyworld.*
+  YOSHI:
+    inheritance:
+    - CHALLENGER
+    - ROYAL
+    options:
+      prefix: '&aSuper &4Dragon &f'
+    permissions:
+    - modifyworld.*
+  FIREEMBLEM:
+    inheritance:
+    - CHALLENGER
+    - ROYAL
+    options:
+      prefix: '&5Grand &8Master &f'
+    permissions:
+    - modifyworld.*
+  KIRBY:
+    inheritance:
+    - CHALLENGER
+    - REVOLUTION
+    options:
+      prefix: '&eStar &dWarrior &f'
+    permissions:
+    - modifyworld.*
+  STARFOX:
+    inheritance:
+    - CHALLENGER
+    - REVOLUTION
+    options:
+      prefix: '&7Lylat &6Pilot &f'
+    permissions:
+    - modifyworld.*
+  POKEMON:
+    inheritance:
+    - CHALLENGER
+    - REPUBLIC
+    options:
+      prefix: '&fPocket &4Monster &f'
+    permissions:
+    - modifyworld.*
+schema-version: 1
+users:
+  839fdce5-361b-4c83-a5e3-3bc683b13e1a:
+    group:
+    - ADMIN
+    - STAFF
+    - METROID
+    options:
+      last-logout-time: '1475374330'
+      name: ColonyDrone8
+      last-login-time: '1475374121'
+      prefix: '&6Varia &cSuit &a'
+  e943d01d-3fbf-4325-8004-fe9f59725731:
+    options:
+      last-logout-time: '1474754218'
+      name: Totokip
+      last-login-time: '1474750698'
+  8a9b4da4-540a-46ac-bf0b-70a8ab0ecc99:
+    group:
+    - STAFF
+    - ZELDA
+    options:
+      last-logout-time: '1475386959'
+      name: Isishart
+      last-login-time: '1475383332'
+      prefix: '&2Hylian &7Knight &b'
+  c0cf7890-0037-4d13-8ad7-e80e65674ab4:
+    group: []
+    options:
+      last-logout-time: '1471067504'
+      name: Staid
+      last-login-time: '1471061845'
+      prefix: '&5~&dDumbass&5~&f '
+    permissions: []
+  bed6fed8-bc2e-440a-92c8-0fe0233e522f:
+    group:
+    - STAFF
+    - STARFOX
+    options:
+      last-logout-time: '1472006688'
+      name: Poketoa
+      last-login-time: '1472006319'
+      prefix: '&7Lylat &6Pilot &b'
+  12bf379d-96dd-4034-9bb7-8905db1709e2:
+    group:
+    - STAFF
+    - EARTHBOUND
+    options:
+      name: AzumaWhirl
+      last-login-time: '1475792956'
+      last-logout-time: '1475793109'
+      prefix: '&3PSI &cKid &b'
+  80025ee6-7a9b-41f1-ad2e-4ef615d95b5a:
+    group:
+    - ADMIN
+    - STAFF
+    options:
+      name: peaceiscloser
+      last-login-time: '1483557529'
+      last-logout-time: '1483558097'
+      prefix: '&cGod&6dess &fof &eLight &a'
+  00eabbf9-4a5a-4d3c-bfb0-7841002f682f:
+    group:
+    - STAFF
+    - FIREEMBLEM
+    options:
+      name: Big_Chungy
+      last-login-time: '1472149817'
+      last-logout-time: '1472150285'
+      prefix: '&5Grand &8Master &b'
+  ae24cf07-7121-4aa1-8d86-98f461c4c7a5:
+    group:
+    - STAFF
+    - YOSHI
+    options:
+      name: Sp0t_
+      last-login-time: '1471884844'
+      last-logout-time: '1471885276'
+      prefix: '&aSuper &4Dragon &b'
+  c54b5065-786b-4e44-b77d-8ab0a769fc90:
+    group:
+    - STAFF
+    - KIRBY
+    options:
+      name: Protocut
+      last-login-time: '1472002688'
+      last-logout-time: '1472004127'
+      prefix: '&eStar &dWarrior &b'
+  fa6d633d-1687-4861-ac1f-ce23cd30e123:
+    group:
+    - YOSHI
+    options:
+      name: Gibistar
+      last-login-time: '1470874649'
+      last-logout-time: '1470877962'
+  6e739754-e367-4ac7-b263-1e189efca9d1:
+    group: []
+    options:
+      name: 53pepper
+      last-login-time: '1468557829'
+      last-logout-time: '1468560449'
+  84f5b79d-118d-498c-96c0-e3e4f8b21c85:
+    group:
+    - STAFF
+    - POKEMON
+    options:
+      name: RicePrezPip
+      last-login-time: '1470722214'
+      last-logout-time: '1470724697'
+      prefix: '&fPocket &4Monster &b'
+  5aea50ec-aae9-47a0-9f41-bcb149316344:
+    group: []
+    options:
+      name: Syrii
+      last-login-time: '1470332644'
+      last-logout-time: '1470334648'
+  ed04da7e-8770-4d46-8b76-85a79f4ebf45:
+    group:
+    - STAFF
+    - POKEMON
+    options:
+      name: PhoenixDown614
+      last-login-time: '1470677829'
+      last-logout-time: '1470678463'
+      prefix: '&fPocket &4Monster &b'
+  prefix:
+    group: []
+  7cc83270-abed-4d30-a13c-e1e932b2654f:
+    group:
+    - KIRBY
+    options:
+      name: wafflepan
+      last-login-time: '1470518383'
+      last-logout-time: '1470519210'
+  c923bb6e-a003-4db0-9202-b329ff1b3dae:
+    group:
+    - FZERO
+    options:
+      name: pandamitten
+      last-login-time: '1477699503'
+      last-logout-time: '1477699538'
+  c2e98459-233d-4cfa-8738-cd032a3246ee:
+    group:
+    - POKEMON
+    options:
+      name: MoltenDragon52
+      last-login-time: '1470529251'
+      last-logout-time: '1470534501'
+  460f75e8-17c3-4e43-b123-ea863f12bb88:
+    group:
+    - MARIO
+    options:
+      name: Jettpizza
+      last-login-time: '1474990722'
+      last-logout-time: '1474993113'
+  fd7aca61-a99a-46c8-ac7b-c1b0e1088859:
+    group:
+    - POKEMON
+    options:
+      name: SuperCallum7
+      last-login-time: '1471707870'
+      last-logout-time: '1471708003'
+  6c86eb89-58ce-4a21-8c74-71c03a4fdd58:
+    group:
+    - POKEMON
+    options:
+      name: Cyrus
+      last-login-time: '1470694077'
+      last-logout-time: '1470694147'
+  b6cc8741-6502-40b1-a578-82f19517f814:
+    group: []
+    options:
+      name: elwaxxo
+      last-login-time: '1471053993'
+      last-logout-time: '1471054501'
+  716d7302-feea-47dd-b321-e4508a35d9bc:
+    group:
+    - MARIO
+    options:
+      name: DoctorTricky
+      last-login-time: '1470967291'
+      last-logout-time: '1470967723'
+  3472b1ae-ebbc-4a5c-a487-12e190135293:
+    group:
+    - ZELDA
+    options:
+      name: Masonian
+      last-login-time: '1478651053'
+      last-logout-time: '1478657670'
+  fe950b1f-4050-4e70-96f2-04edbb2aceb6:
+    group:
+    - STAFF
+    - DONKEY KONG
+    options:
+      name: Crackle_
+      last-login-time: '1476299779'
+      prefix: '&4Coconut &6Gun &b'
+      last-logout-time: '1476301353'
+  4750d0f7-e8a5-4cf7-8dab-dbb576e6abf7:
+    group:
+    - ZELDA
+    options:
+      name: Poowt_is_da_best
+      last-login-time: '1471132055'
+      last-logout-time: '1471132093'
+  1b855b56-689e-4503-bd10-304198877b37:
+    group: []
+    options:
+      name: DinoSorurus
+      last-login-time: '1472165193'
+      last-logout-time: '1472165218'
+  82c279b5-3c43-486f-9e29-2edd0d4c448e:
+    group:
+    - ZELDA
+    options:
+      name: NateBrad
+      last-login-time: '1471709509'
+      last-logout-time: '1471710385'
+  2e529b45-5e14-4f90-83f0-ab0e89bd83dd:
+    group:
+    - DONKEYKONG
+    options:
+      name: SmokeyTheLion
+      last-login-time: '1472143327'
+      last-logout-time: '1472143568'
+  224168b2-cfc0-4bf4-8067-8e321b952d93:
+    group:
+    - KIRBY
+    options:
+      name: CobaltCab
+      last-login-time: '1472613467'
+      last-logout-time: '1472613583'
+  3a2f233d-47e4-4599-8454-00d536f21fb6:
+    group: []
+    options:
+      name: PinkGirlDeer
+      last-login-time: '1472765414'
+      last-logout-time: '1472765471'
+  1e17d586-3a2b-4b2d-ad75-5b21a94f4142:
+    group: []
+    options:
+      name: GoldTheGlaceon
+      last-login-time: '1474406659'
+      last-logout-time: '1474406679'
+  03fe0ef6-fe39-4eab-90ea-ff365d32c0ff:
+    group: []
+    options:
+      name: Zany_Polar
+      last-login-time: '1478565042'
+      last-logout-time: '1478565350'
+  768438d7-f4fd-4248-beae-22ac2ee5e6b8:
+    group: []
+    options:
+      name: Vince_25
+      last-login-time: '1483556217'
+      last-logout-time: '1483557664'

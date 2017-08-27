@@ -1,0 +1,7 @@
+name: Big_Chungy
+activeChannel: Global
+channels:
+- Global
+ignores: []
+muted: false
+autojoin: false

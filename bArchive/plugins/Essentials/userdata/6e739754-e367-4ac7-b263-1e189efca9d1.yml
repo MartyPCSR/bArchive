@@ -1,0 +1,29 @@
+lastAccountName: 53pepper
+timestamps:
+  login: 1468557829094
+  lastteleport: 1468557896875
+  logout: 1468560449572
+ipAddress: 173.173.92.151
+lastlocation:
+  world: world
+  x: 356.35185544342863
+  y: 70.9375
+  z: 306.3654859906575
+  yaw: 75.88801
+  pitch: 2.2500823
+homes:
+  home:
+    world: flatmap
+    x: 106.91801794677892
+    y: 4.0
+    z: -48.28451116186665
+    yaw: 106.99585
+    pitch: 9.299819
+logoutlocation:
+  world: flatmap
+  x: 95.06294865499486
+  y: 37.11650136792814
+  z: -36.48095753409066
+  yaw: 174.14758
+  pitch: 37.649952
+nickname: Rainbutt_Pooper

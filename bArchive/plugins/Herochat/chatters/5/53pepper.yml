@@ -1,0 +1,7 @@
+name: 53pepper
+activeChannel: Global
+channels:
+- Global
+ignores: []
+muted: false
+autojoin: false

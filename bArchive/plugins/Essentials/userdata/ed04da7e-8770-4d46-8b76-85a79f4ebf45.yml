@@ -1,0 +1,22 @@
+lastAccountName: PhoenixDown614
+timestamps:
+  login: 1470677829161
+  lastteleport: 1470676738946
+  logout: 1470678463056
+ipAddress: 38.114.86.50
+lastlocation:
+  world: flatmap
+  x: -193.05094967041134
+  y: 4.0
+  z: -53.51707150164831
+  yaw: 260.5499
+  pitch: 25.349972
+logoutlocation:
+  world: world
+  x: -4921.219963939577
+  y: 104.66675473881563
+  z: -5447.523024280935
+  yaw: 4.537842
+  pitch: 13.200018
+nickname: Phoenix
+afk: false

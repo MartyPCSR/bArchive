@@ -1,0 +1,31 @@
+lastAccountName: Sp0t_
+timestamps:
+  login: 1471884844467
+  lastteleport: 1471885094153
+  logout: 1471885276579
+ipAddress: 107.129.77.128
+lastlocation:
+  world: flatmap
+  x: 140.77653042406962
+  y: 10.61454803259952
+  z: -58.34418829008344
+  yaw: -81.60146
+  pitch: -14.041867
+logoutlocation:
+  world: flatmap
+  x: 169.3858365608326
+  y: 44.787758831733235
+  z: -86.9764403241227
+  yaw: -248.98438
+  pitch: 21.0
+money: '97'
+afk: false
+homes:
+  mm:
+    world: world
+    x: -149.91005970151065
+    y: 73.0
+    z: 1307.2717949233709
+    yaw: -67.13843
+    pitch: 16.050001
+nickname: Sp0t_

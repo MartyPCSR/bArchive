@@ -1,0 +1,20 @@
+lastAccountName: wafflepan
+timestamps:
+  login: 1470518383434
+  logout: 1470519210011
+  lastteleport: 1470374731311
+ipAddress: 216.228.168.11
+lastlocation:
+  world: flatmap
+  x: 83.33003708994853
+  y: 7.0
+  z: -124.45436973247706
+  yaw: -3.934204
+  pitch: 34.64988
+logoutlocation:
+  world: flatmap
+  x: 80.40083709139357
+  y: 29.0
+  z: -44.31298264832226
+  yaw: -228.63416
+  pitch: 37.049973

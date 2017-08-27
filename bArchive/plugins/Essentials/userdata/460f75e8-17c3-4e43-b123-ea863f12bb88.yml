@@ -1,0 +1,28 @@
+lastAccountName: Jettpizza
+timestamps:
+  login: 1474990722266
+  lastteleport: 1473778774291
+  logout: 1474993113906
+ipAddress: 172.74.0.246
+lastlocation:
+  world: world
+  x: -9880.5
+  y: 85.0
+  z: -9825.5
+  yaw: -224.84332
+  pitch: 14.400031
+logoutlocation:
+  world: flatmap
+  x: 152.18639821868646
+  y: 47.0625
+  z: 457.2792762668399
+  yaw: 140.71219
+  pitch: 9.449994
+homes:
+  home:
+    world: flatmap
+    x: 175.02251186879107
+    y: 54.0
+    z: 456.97102003297715
+    yaw: 359.87476
+    pitch: 3.9000118

@@ -1,0 +1,33 @@
+lastAccountName: Protocut
+timestamps:
+  login: 1472002688730
+  lastteleport: 1472003938290
+  logout: 1472004127207
+  kits:
+    color: 1472002806507
+ipAddress: 50.129.139.187
+lastlocation:
+  world: world
+  x: 3883.6481700207987
+  y: 89.0
+  z: 3404.2516695878376
+  yaw: 2.1067638
+  pitch: 16.05002
+logoutlocation:
+  world: world_the_end
+  x: -709.2209693946561
+  y: 59.17435902559803
+  z: -1043.7028193532394
+  yaw: -289.3379
+  pitch: 23.249908
+money: '92'
+homes:
+  home:
+    world: world_the_end
+    x: 1048.3071715681313
+    y: 69.0
+    z: -1688.300000011921
+    yaw: 176.22353
+    pitch: 17.10008
+afk: false
+powertools: {}

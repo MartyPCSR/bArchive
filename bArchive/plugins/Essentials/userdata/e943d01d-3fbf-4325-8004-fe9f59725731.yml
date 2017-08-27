@@ -1,0 +1,22 @@
+lastAccountName: Totokip
+timestamps:
+  login: 1474750698690
+  logout: 1474754218914
+  lastteleport: 1474751596209
+ipAddress: 184.153.228.44
+nickname: §8Ibzan
+lastlocation:
+  world: world
+  x: 356.73888092749
+  y: 74.0
+  z: 292.38166691328934
+  yaw: -37.50122
+  pitch: 12.750006
+logoutlocation:
+  world: flatmap
+  x: 98.76827432299665
+  y: 26.487146426526827
+  z: 88.30390912242395
+  yaw: -170.4001
+  pitch: 13.95004
+afk: false

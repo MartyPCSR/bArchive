@@ -1,0 +1,24 @@
+lastAccountName: Big_Chungy
+timestamps:
+  login: 1472149817098
+  lastteleport: 1472150222378
+  logout: 1472150285604
+ipAddress: 130.184.253.21
+lastlocation:
+  world: flatmap
+  x: 55.5412555920021
+  y: 71.96323726417168
+  z: -390.1695500573388
+  yaw: 103.200935
+  pitch: 41.249874
+logoutlocation:
+  world: flatmap
+  x: 114.18374820673927
+  y: 4.0
+  z: -49.7673865670898
+  yaw: 132.90005
+  pitch: 14.550098
+money: '117.129'
+afk: false
+homes: {}
+powertools: {}

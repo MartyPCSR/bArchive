@@ -1,0 +1,44 @@
+lastAccountName: Poketoa
+timestamps:
+  login: 1472006320464
+  lastteleport: 1472006346582
+  logout: 1472006688663
+ipAddress: 108.195.116.232
+lastlocation:
+  world: world
+  x: -165.1841475492901
+  y: 81.77569026652291
+  z: 1324.300000011921
+  yaw: -150.29344
+  pitch: 49.799965
+logoutlocation:
+  world: world_the_end
+  x: -856.5330875603745
+  y: 131.32485837395933
+  z: -809.8573290494946
+  yaw: 181.07422
+  pitch: -13.349969
+homes:
+  home:
+    world: world
+    x: 874.3706554274963
+    y: 82.0
+    z: 908.2981479656971
+    yaw: 178.09619
+    pitch: 24.300146
+  beachcity:
+    world: world
+    x: 908.1434061828611
+    y: 86.55084501455404
+    z: 2782.241553214136
+    yaw: -277.7564
+    pitch: 22.50037
+  survival:
+    world: world
+    x: 583.5
+    y: 68.9375
+    z: 1635.5
+    yaw: -138.14882
+    pitch: 22.94992
+afk: false
+money: '0'
